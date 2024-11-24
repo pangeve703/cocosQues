@@ -1,0 +1,668 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/eve/BetChip/assets/sprite.meta": {
+      "time": 1732174136448.881
+    },
+    "/Users/eve/BetChip/assets/sprite": {
+      "time": 1732380225674.3906,
+      "uuid": "3fd52903-40e0-43db-bae0-f829b7517d09"
+    },
+    "/Users/eve/BetChip/assets/material.meta": {
+      "time": 1732174144897.2102
+    },
+    "/Users/eve/BetChip/assets/material": {
+      "time": 1732174757581.955,
+      "uuid": "4896523c-349c-4aa7-bb62-39a0650f440c"
+    },
+    "/Users/eve/BetChip/assets/material/plain.mtl.meta": {
+      "time": 1732174757590.671
+    },
+    "/Users/eve/BetChip/assets/material/plain.mtl": {
+      "time": 1732174757581.1675,
+      "uuid": "d419f365-df2f-4376-967b-9fef134f8ccd"
+    },
+    "/Users/eve/BetChip/assets/sprite/circle2.webp.meta": {
+      "time": 1732175515952.8906
+    },
+    "/Users/eve/BetChip/assets/sprite/circle1.webp.meta": {
+      "time": 1732175515963.4001
+    },
+    "/Users/eve/BetChip/assets/sprite/circle2.webp": {
+      "time": 1732175515933.1025,
+      "uuid": "d9200f8a-340a-404b-8d2e-af6c017b157b"
+    },
+    "/Users/eve/BetChip/assets/sprite/circle1.webp": {
+      "time": 1732175515933.1362,
+      "uuid": "29d7dfbd-9159-4171-bf59-6f310ae23a3b"
+    },
+    "/Users/eve/BetChip/assets/script.meta": {
+      "time": 1732175684224.1572
+    },
+    "/Users/eve/BetChip/assets/script": {
+      "time": 1732441487242.4316,
+      "uuid": "09cb65ef-5b7d-47dc-a8c5-a048deb87218"
+    },
+    "/Users/eve/BetChip/assets/script/CountdownTimer.ts.meta": {
+      "time": 1732175789057.718
+    },
+    "/Users/eve/BetChip/assets/script/CountdownTimer.ts": {
+      "time": 1732378273144.1414,
+      "uuid": "3def3b43-913b-4346-b258-744f113e997c"
+    },
+    "/Users/eve/BetChip/assets/script/AnimationScript.ts.meta": {
+      "time": 1732177594123.539
+    },
+    "/Users/eve/BetChip/assets/script/AnimationScript.ts": {
+      "time": 1732378386308.0266,
+      "uuid": "e458a7ce-0a93-4986-9d22-176c52b1dd13"
+    },
+    "/Users/eve/BetChip/assets/sprite/chip-teal.webp.meta": {
+      "time": 1732178959372.3271
+    },
+    "/Users/eve/BetChip/assets/sprite/chip-yellow.webp.meta": {
+      "time": 1732178959380.2224
+    },
+    "/Users/eve/BetChip/assets/sprite/chip-maroon.webp.meta": {
+      "time": 1732178959387.9255
+    },
+    "/Users/eve/BetChip/assets/sprite/chip-violet.webp.meta": {
+      "time": 1732178959398.7007
+    },
+    "/Users/eve/BetChip/assets/sprite/chip-green.webp.meta": {
+      "time": 1732178959434.6646
+    },
+    "/Users/eve/BetChip/assets/sprite/chip-teal.webp": {
+      "time": 1732178959340.6958,
+      "uuid": "233001d5-6063-4533-8b7b-62267d343659"
+    },
+    "/Users/eve/BetChip/assets/sprite/chip-yellow.webp": {
+      "time": 1732178959340.692,
+      "uuid": "a1453488-59be-4827-93e0-d1eb94e90bed"
+    },
+    "/Users/eve/BetChip/assets/sprite/chip-maroon.webp": {
+      "time": 1732178959340.7512,
+      "uuid": "84745005-a8a7-40ea-b64f-f1157dfd5dba"
+    },
+    "/Users/eve/BetChip/assets/sprite/chip-violet.webp": {
+      "time": 1732178959340.9866,
+      "uuid": "d8dd3f68-892a-45ee-8e5e-efce1e79048e"
+    },
+    "/Users/eve/BetChip/assets/sprite/chip-green.webp": {
+      "time": 1732178959341.104,
+      "uuid": "681f4f79-9595-4e5d-8ddc-52eec6725166"
+    },
+    "/Users/eve/BetChip/assets/sprite/chip-cho.png.meta": {
+      "time": 1732202134167.871
+    },
+    "/Users/eve/BetChip/assets/sprite/chip-cho.png": {
+      "time": 1732202134129.617,
+      "uuid": "b7d2e05c-7395-4341-85e8-4a2e1d4449a9"
+    },
+    "/Users/eve/BetChip/assets/script/Config.ts.meta": {
+      "time": 1732203138375.8079
+    },
+    "/Users/eve/BetChip/assets/script/Config.ts": {
+      "time": 1732204704106.7273,
+      "uuid": "80b668ee-af74-4e32-8889-7526eef1b154"
+    },
+    "/Users/eve/BetChip/assets/resources.meta": {
+      "time": 1732204255380.3901
+    },
+    "/Users/eve/BetChip/assets/resources": {
+      "time": 1732204258929.9932,
+      "uuid": "4fd22c15-5dfd-4492-9ed5-f0681c9e676c"
+    },
+    "/Users/eve/BetChip/assets/resources/prefab.meta": {
+      "time": 1732178898245.2634
+    },
+    "/Users/eve/BetChip/assets/resources/prefab": {
+      "time": 1732272056358.7227,
+      "uuid": "c9864196-b4e3-45ba-abc9-463a82f5c185"
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/ChipChoco.prefab.meta": {
+      "time": 1732202187145.531
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/ChipChoco.prefab": {
+      "time": 1732265865167.9148,
+      "uuid": "708d21a2-d8aa-4451-8116-258bf59acd5d"
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/ChipMaroon.prefab.meta": {
+      "time": 1732180160124.003
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/ChipMaroon.prefab": {
+      "time": 1732265911721.225,
+      "uuid": "2cf8d060-4736-457c-946f-9e6be0526d74"
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/ChipTeal.prefab.meta": {
+      "time": 1732180204384.1555
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/ChipTeal.prefab": {
+      "time": 1732265921297.5266,
+      "uuid": "771089a0-0f8c-4319-b9b8-390ef94c2c5a"
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/ChipGreen.prefab.meta": {
+      "time": 1732179000754.7854
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/ChipGreen.prefab": {
+      "time": 1732265885200.4202,
+      "uuid": "83ecdb79-c378-412a-93a9-017fc1c4a940"
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/ChipViolet.prefab.meta": {
+      "time": 1732180291096.6443
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/ChipViolet.prefab": {
+      "time": 1732265932348.1052,
+      "uuid": "be34325f-47d1-4a9f-a55b-385fd30be775"
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/ChipYellow.prefab.meta": {
+      "time": 1732180321828.0532
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/ChipYellow.prefab": {
+      "time": 1732265943958.682,
+      "uuid": "de6304a7-0fec-44fb-b585-8184169ee50d"
+    },
+    "/Users/eve/BetChip/assets/script/ChipComponent.ts.meta": {
+      "time": 1732265805917.2986
+    },
+    "/Users/eve/BetChip/assets/script/ChipComponent.ts": {
+      "time": 1732439511822.8035,
+      "uuid": "6e927aa0-ae96-4f8f-9a64-c7f9cbba89bb"
+    },
+    "/Users/eve/BetChip/assets/sprite/bet-zone.jpg.meta": {
+      "time": 1732270893085.6338
+    },
+    "/Users/eve/BetChip/assets/sprite/background.jpg.meta": {
+      "time": 1732270893111.258
+    },
+    "/Users/eve/BetChip/assets/sprite/bet-zone.jpg": {
+      "time": 1732270893050.0508,
+      "uuid": "350cc250-8d75-47a3-a712-422566920595"
+    },
+    "/Users/eve/BetChip/assets/sprite/background.jpg": {
+      "time": 1732270893050.9612,
+      "uuid": "97a09839-162d-498c-aea3-a7f0b294f01d"
+    },
+    "/Users/eve/BetChip/assets/script/ChipManager.ts.meta": {
+      "time": 1732185223178.145
+    },
+    "/Users/eve/BetChip/assets/script/ChipManager.ts": {
+      "time": 1732442394714.855,
+      "uuid": "76ad00da-5e67-4ec2-9345-64adef916c5c"
+    },
+    "/Users/eve/BetChip/assets/script/BetZoneComponent.ts.meta": {
+      "time": 1732271922304.8784
+    },
+    "/Users/eve/BetChip/assets/script/BetZoneComponent.ts": {
+      "time": 1732440650867.7068,
+      "uuid": "8045a96c-5d32-4511-af54-1b2cdf6e4b95"
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/bet-zone.prefab.meta": {
+      "time": 1732272056361.3442
+    },
+    "/Users/eve/BetChip/assets/resources/prefab/bet-zone.prefab": {
+      "time": 1732380480388.9106,
+      "uuid": "29a29711-7a9a-4dab-aee7-117770fdeb42"
+    },
+    "/Users/eve/BetChip/assets/scene.meta": {
+      "time": 1732358829653.8994
+    },
+    "/Users/eve/BetChip/assets/scene": {
+      "time": 1732358841970.1736,
+      "uuid": "48b4d2da-0f54-4758-afcf-767332fa64bd"
+    },
+    "/Users/eve/BetChip/assets/scene/scene.scene.meta": {
+      "time": 1732358841976.5132
+    },
+    "/Users/eve/BetChip/assets/scene/scene.scene": {
+      "time": 1732442481920.518,
+      "uuid": "981c1963-a515-4561-8bb1-8cc90647a2a7"
+    },
+    "/Users/eve/BetChip/assets/sprite/coin.png.meta": {
+      "time": 1732360624758.9524
+    },
+    "/Users/eve/BetChip/assets/sprite/coin.png": {
+      "time": 1732360618923.554,
+      "uuid": "46533439-25bb-46da-8e03-c382829c9ba1"
+    },
+    "/Users/eve/BetChip/assets/script/BetAgain.ts.meta": {
+      "time": 1732378935001.7708
+    },
+    "/Users/eve/BetChip/assets/script/BetAgain.ts": {
+      "time": 1732380044100.7395,
+      "uuid": "441da47b-09a6-4f96-9e1b-2d022d189de5"
+    },
+    "/Users/eve/BetChip/assets/sprite/button.png.meta": {
+      "time": 1732380221409.8435
+    },
+    "/Users/eve/BetChip/assets/sprite/button.png": {
+      "time": 1732380221385.7615,
+      "uuid": "5466d194-c037-4580-9456-218ec4841927"
+    },
+    "/Users/eve/BetChip/assets/sprite/again.png.meta": {
+      "time": 1732380225698.5974
+    },
+    "/Users/eve/BetChip/assets/sprite/again.png": {
+      "time": 1732380225673.648,
+      "uuid": "fb09303b-64d9-400e-b8ff-ccd94359df81"
+    },
+    "/Users/eve/BetChip/assets/sounds.meta": {
+      "time": 1732441050966.718
+    },
+    "/Users/eve/BetChip/assets/sounds": {
+      "time": 1732441926686.4695,
+      "uuid": "a1835296-22a9-4d10-8e7d-63be1591f2cd"
+    },
+    "/Users/eve/BetChip/assets/sounds/chip.mp3.meta": {
+      "time": 1732441407912.1846
+    },
+    "/Users/eve/BetChip/assets/sounds/chip.mp3": {
+      "time": 1732441407882.0247,
+      "uuid": "6fcd5b9b-ab4d-474c-9c92-ceb39d254e54"
+    },
+    "/Users/eve/BetChip/assets/script/AudioController.ts.meta": {
+      "time": 1732441487244.4182
+    },
+    "/Users/eve/BetChip/assets/script/AudioController.ts": {
+      "time": 1732442133983.5461,
+      "uuid": "694cf13e-5da5-4d16-befd-f4a557463470"
+    },
+    "/Users/eve/BetChip/assets/sounds/chip2.mp3.meta": {
+      "time": 1732441921620.7705
+    },
+    "/Users/eve/BetChip/assets/sounds/chip2.mp3": {
+      "time": 1732441921598.7332,
+      "uuid": "cb69ac0c-4d89-4b2a-96bd-f22177848e00"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/material": {
+      "time": 1732174757581.955,
+      "uuid": "4896523c-349c-4aa7-bb62-39a0650f440c"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources": {
+      "time": 1732204258929.9932,
+      "uuid": "4fd22c15-5dfd-4492-9ed5-f0681c9e676c"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/scene": {
+      "time": 1732358841970.1738,
+      "uuid": "48b4d2da-0f54-4758-afcf-767332fa64bd"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script": {
+      "time": 1732441487242.4316,
+      "uuid": "09cb65ef-5b7d-47dc-a8c5-a048deb87218"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sounds": {
+      "time": 1732441926686.4695,
+      "uuid": "a1835296-22a9-4d10-8e7d-63be1591f2cd"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite": {
+      "time": 1732380225674.3906,
+      "uuid": "3fd52903-40e0-43db-bae0-f829b7517d09"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab": {
+      "time": 1732272056358.7227,
+      "uuid": "c9864196-b4e3-45ba-abc9-463a82f5c185"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/AnimationScript.ts": {
+      "time": 1732378386308.0266,
+      "uuid": "e458a7ce-0a93-4986-9d22-176c52b1dd13"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/AudioController.ts": {
+      "time": 1732442133983.5461,
+      "uuid": "694cf13e-5da5-4d16-befd-f4a557463470"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/BetAgain.ts": {
+      "time": 1732380044100.7395,
+      "uuid": "441da47b-09a6-4f96-9e1b-2d022d189de5"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/BetZoneComponent.ts": {
+      "time": 1732440650867.7068,
+      "uuid": "8045a96c-5d32-4511-af54-1b2cdf6e4b95"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/ChipComponent.ts": {
+      "time": 1732439511822.8035,
+      "uuid": "6e927aa0-ae96-4f8f-9a64-c7f9cbba89bb"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/ChipManager.ts": {
+      "time": 1732442394714.855,
+      "uuid": "76ad00da-5e67-4ec2-9345-64adef916c5c"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/Config.ts": {
+      "time": 1732204704106.7273,
+      "uuid": "80b668ee-af74-4e32-8889-7526eef1b154"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/CountdownTimer.ts": {
+      "time": 1732378273144.141,
+      "uuid": "3def3b43-913b-4346-b258-744f113e997c"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/material.meta": {
+      "time": 1732174144897.2102
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources.meta": {
+      "time": 1732204255380.3901
+    },
+    "/Users/eve/chat-server/cocosQues/assets/scene.meta": {
+      "time": 1732358829653.8997
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script.meta": {
+      "time": 1732175684224.1572
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sounds.meta": {
+      "time": 1732441050966.718
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite.meta": {
+      "time": 1732174136448.881
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab.meta": {
+      "time": 1732178898245.2634
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/AnimationScript.ts.meta": {
+      "time": 1732177594123.539
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/AudioController.ts.meta": {
+      "time": 1732441487244.4182
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/BetAgain.ts.meta": {
+      "time": 1732378935001.7708
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/BetZoneComponent.ts.meta": {
+      "time": 1732271922304.8784
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/ChipComponent.ts.meta": {
+      "time": 1732265805917.2983
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/ChipManager.ts.meta": {
+      "time": 1732185223178.145
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/Config.ts.meta": {
+      "time": 1732203138375.808
+    },
+    "/Users/eve/chat-server/cocosQues/assets/script/CountdownTimer.ts.meta": {
+      "time": 1732175789057.7183
+    },
+    "/Users/eve/chat-server/cocosQues/assets/material/plain.mtl": {
+      "time": 1732174757581.1675,
+      "uuid": "d419f365-df2f-4376-967b-9fef134f8ccd"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/scene/scene.scene": {
+      "time": 1732442481920.518,
+      "uuid": "981c1963-a515-4561-8bb1-8cc90647a2a7"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sounds/chip.mp3": {
+      "time": 1732441407882.0244,
+      "uuid": "6fcd5b9b-ab4d-474c-9c92-ceb39d254e54"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sounds/chip2.mp3": {
+      "time": 1732441921598.7334,
+      "uuid": "cb69ac0c-4d89-4b2a-96bd-f22177848e00"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/again.png": {
+      "time": 1732380225673.648,
+      "uuid": "fb09303b-64d9-400e-b8ff-ccd94359df81"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/background.jpg": {
+      "time": 1732270893050.9612,
+      "uuid": "97a09839-162d-498c-aea3-a7f0b294f01d"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/bet-zone.jpg": {
+      "time": 1732270893050.0508,
+      "uuid": "350cc250-8d75-47a3-a712-422566920595"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/button.png": {
+      "time": 1732380221385.7615,
+      "uuid": "5466d194-c037-4580-9456-218ec4841927"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/chip-cho.png": {
+      "time": 1732202134129.617,
+      "uuid": "b7d2e05c-7395-4341-85e8-4a2e1d4449a9"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/chip-green.webp": {
+      "time": 1732178959341.104,
+      "uuid": "681f4f79-9595-4e5d-8ddc-52eec6725166"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/chip-maroon.webp": {
+      "time": 1732178959340.7512,
+      "uuid": "84745005-a8a7-40ea-b64f-f1157dfd5dba"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/chip-teal.webp": {
+      "time": 1732178959340.6958,
+      "uuid": "233001d5-6063-4533-8b7b-62267d343659"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/chip-violet.webp": {
+      "time": 1732178959340.9866,
+      "uuid": "d8dd3f68-892a-45ee-8e5e-efce1e79048e"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/chip-yellow.webp": {
+      "time": 1732178959340.692,
+      "uuid": "a1453488-59be-4827-93e0-d1eb94e90bed"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/circle1.webp": {
+      "time": 1732175515933.1362,
+      "uuid": "29d7dfbd-9159-4171-bf59-6f310ae23a3b"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/circle2.webp": {
+      "time": 1732175515933.1025,
+      "uuid": "d9200f8a-340a-404b-8d2e-af6c017b157b"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/coin.png": {
+      "time": 1732360618923.554,
+      "uuid": "46533439-25bb-46da-8e03-c382829c9ba1"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/ChipChoco.prefab": {
+      "time": 1732265865167.9148,
+      "uuid": "708d21a2-d8aa-4451-8116-258bf59acd5d"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/ChipGreen.prefab": {
+      "time": 1732265885200.4202,
+      "uuid": "83ecdb79-c378-412a-93a9-017fc1c4a940"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/ChipMaroon.prefab": {
+      "time": 1732265911721.225,
+      "uuid": "2cf8d060-4736-457c-946f-9e6be0526d74"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/ChipTeal.prefab": {
+      "time": 1732265921297.5266,
+      "uuid": "771089a0-0f8c-4319-b9b8-390ef94c2c5a"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/ChipViolet.prefab": {
+      "time": 1732265932348.1052,
+      "uuid": "be34325f-47d1-4a9f-a55b-385fd30be775"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/ChipYellow.prefab": {
+      "time": 1732265943958.682,
+      "uuid": "de6304a7-0fec-44fb-b585-8184169ee50d"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/bet-zone.prefab": {
+      "time": 1732380480388.9106,
+      "uuid": "29a29711-7a9a-4dab-aee7-117770fdeb42"
+    },
+    "/Users/eve/chat-server/cocosQues/assets/material/plain.mtl.meta": {
+      "time": 1732174757590.671
+    },
+    "/Users/eve/chat-server/cocosQues/assets/scene/scene.scene.meta": {
+      "time": 1732358841976.5132
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sounds/chip2.mp3.meta": {
+      "time": 1732441921620.7705
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/again.png.meta": {
+      "time": 1732380225698.5977
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sounds/chip.mp3.meta": {
+      "time": 1732441407912.1846
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/background.jpg.meta": {
+      "time": 1732270893111.258
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/bet-zone.jpg.meta": {
+      "time": 1732270893085.6338
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/button.png.meta": {
+      "time": 1732380221409.8435
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/chip-cho.png.meta": {
+      "time": 1732202134167.871
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/chip-green.webp.meta": {
+      "time": 1732178959434.6646
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/chip-maroon.webp.meta": {
+      "time": 1732178959387.9255
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/chip-teal.webp.meta": {
+      "time": 1732178959372.3271
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/chip-violet.webp.meta": {
+      "time": 1732178959398.7007
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/chip-yellow.webp.meta": {
+      "time": 1732178959380.2227
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/circle2.webp.meta": {
+      "time": 1732175515952.8906
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/coin.png.meta": {
+      "time": 1732360624758.9524
+    },
+    "/Users/eve/chat-server/cocosQues/assets/sprite/circle1.webp.meta": {
+      "time": 1732175515963.4001
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/ChipChoco.prefab.meta": {
+      "time": 1732202187145.531
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/ChipGreen.prefab.meta": {
+      "time": 1732179000754.7856
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/ChipMaroon.prefab.meta": {
+      "time": 1732180160124.003
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/ChipTeal.prefab.meta": {
+      "time": 1732180204384.1555
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/ChipViolet.prefab.meta": {
+      "time": 1732180291096.6443
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/ChipYellow.prefab.meta": {
+      "time": 1732180321828.0535
+    },
+    "/Users/eve/chat-server/cocosQues/assets/resources/prefab/bet-zone.prefab.meta": {
+      "time": 1732272056361.3442
+    }
+  },
+  "missing": {
+    "c9ff0ba9-d82e-484e-8a2d-e756a11fa3cf": {
+      "path": "/Users/eve/BetChip/assets/material/render-texture.rt",
+      "time": 1732174172905.7407,
+      "removeTime": 1732174188323
+    },
+    "b2a3c8a8-350b-4d8a-9a16-db71647e43e3": {
+      "path": "/Users/eve/BetChip/assets/script/countdownTimer.ts",
+      "time": 1732175736046.2883,
+      "removeTime": 1732175748450
+    },
+    "e458a7ce-0a93-4986-9d22-176c52b1dd13": {
+      "path": "/Users/eve/BetChip/assets/script/Animation.ts",
+      "time": 1732177835913.1802,
+      "removeTime": 1732177961821
+    },
+    "a33a575e-6aee-4a4d-b737-e00ce288a002": {
+      "path": "/Users/eve/BetChip/assets/Node.prefab",
+      "time": 1732178879433.5188,
+      "removeTime": 1732178884037
+    },
+    "c9864196-b4e3-45ba-abc9-463a82f5c185": {
+      "path": "/Users/eve/BetChip/assets/prefab",
+      "time": 1732202187139.893,
+      "removeTime": 1732204258930
+    },
+    "83ecdb79-c378-412a-93a9-017fc1c4a940": {
+      "path": "/Users/eve/BetChip/assets/prefab/ChipGreen.prefab",
+      "time": 1732180132162.655,
+      "removeTime": 1732204258931
+    },
+    "707545e4-7018-46f2-a3d9-47e5689c39a0": {
+      "path": "/Users/eve/BetChip/assets/prefab/ChipMaroon.prefab",
+      "time": 1732179422633.571,
+      "removeTime": 1732180109732
+    },
+    "b2ff30f7-5a6a-4412-a94c-9fd39c911328": {
+      "path": "/Users/eve/BetChip/assets/prefab/ChipTeal.prefab",
+      "time": 1732179401671.5623,
+      "removeTime": 1732180109734
+    },
+    "3c755b5f-117e-46f3-8648-46144a278925": {
+      "path": "/Users/eve/BetChip/assets/prefab/ChipViolet.prefab",
+      "time": 1732179469110.7412,
+      "removeTime": 1732180109731
+    },
+    "8b59a9ad-2d0d-49b0-9178-dd1c0c35917c": {
+      "path": "/Users/eve/BetChip/assets/prefab/ChipYellow.prefab",
+      "time": 1732179514801.2063,
+      "removeTime": 1732180109733
+    },
+    "2cf8d060-4736-457c-946f-9e6be0526d74": {
+      "path": "/Users/eve/BetChip/assets/prefab/ChipMaroon.prefab",
+      "time": 1732180275602.4607,
+      "removeTime": 1732204258932
+    },
+    "771089a0-0f8c-4319-b9b8-390ef94c2c5a": {
+      "path": "/Users/eve/BetChip/assets/prefab/ChipTeal.prefab",
+      "time": 1732180204383.109,
+      "removeTime": 1732204258932
+    },
+    "be34325f-47d1-4a9f-a55b-385fd30be775": {
+      "path": "/Users/eve/BetChip/assets/prefab/ChipViolet.prefab",
+      "time": 1732180620697.4973,
+      "removeTime": 1732204258932
+    },
+    "de6304a7-0fec-44fb-b585-8184169ee50d": {
+      "path": "/Users/eve/BetChip/assets/prefab/ChipYellow.prefab",
+      "time": 1732180578450.9038,
+      "removeTime": 1732204258932
+    },
+    "708d21a2-d8aa-4451-8116-258bf59acd5d": {
+      "path": "/Users/eve/BetChip/assets/prefab/ChipChoco.prefab",
+      "time": 1732202188953.081,
+      "removeTime": 1732204258931
+    },
+    "63ce42b4-a753-4a2a-a9f3-91b508c28ef0": {
+      "path": "/Users/eve/BetChip/assets/script/config",
+      "time": 1732203124747.7593,
+      "removeTime": 1732203130673
+    },
+    "17eb6008-7cf8-4401-a7fb-ffe92a91a2b0": {
+      "path": "/Users/eve/BetChip/assets/script/C hi p C o m po nen t.ts",
+      "time": 1732265788957.0386,
+      "removeTime": 1732265794162
+    },
+    "76ad00da-5e67-4ec2-9345-64adef916c5c": {
+      "path": "/Users/eve/BetChip/assets/script/CoinSelection.ts",
+      "time": 1732270736585.8667,
+      "removeTime": 1732271767043
+    },
+    "522146b3-aebe-496b-8938-29e526062aa4": {
+      "path": "/Users/eve/BetChip/assets/script/xam.ts",
+      "time": 1732272539180.2263,
+      "removeTime": 1732359165356
+    },
+    "2ecf603b-428d-4721-a78d-73dc6229f013": {
+      "path": "/Users/eve/BetChip/assets/script/RadialTimer.ts",
+      "time": 1732359209803.7952,
+      "removeTime": 1732359569748
+    },
+    "46533439-25bb-46da-8e03-c382829c9ba1": {
+      "path": "/Users/eve/BetChip/assets/sprite/2764360.png",
+      "time": 1732360618923.554,
+      "removeTime": 1732360624749
+    },
+    "1921316b-e1bf-422f-99f5-9e791652b3dd": {
+      "path": "/Users/eve/BetChip/assets/script/Label.ts",
+      "time": 1732440281617.4543,
+      "removeTime": 1732440313560
+    },
+    "219f3989-6556-43a8-9b4d-50dc3dd50bf0": {
+      "path": "/Users/eve/BetChip/assets/sounds/Gambling_Chips_ODY-0480-048.wav",
+      "time": 1732441057988.3506,
+      "removeTime": 1732441926687
+    }
+  }
+}
